@@ -1,26 +1,28 @@
-[
-  {
-    "booked_time": "2019-06-16T10:00:00.000Z",
-    "homecode": "KLW865",
-    "address_line_1": "Flat 2, 101 Old Street",
-    "lead_name": "Jane Doe"
-  },
-  {
-    "booked_time": "2019-06-16T14:15:00.000Z",
-    "homecode": "KZQ491",
-    "address_line_1": "Flat 1, 4 Clerkenwell Road",
-    "lead_name": "John Smith"
-  },
-  {
-    "booked_time": "2019-06-17T12:00:00.000Z",
-    "homecode": "LDN474",
-    "address_line_1": "9 Onslow Gardens",
-    "lead_name": "David H. Wagner"
-  },
-  {
-    "booked_time": "2019-06-18T10:00:00.000Z",
-    "homecode": "LDN474",
-    "address_line_1": "Flat 5, 40 Holloway Road",
-    "lead_name": "David H. Wagner"
-  }
-]
+{
+  "onboarding_meetings": [
+    {
+      "booked_time": "2019-06-16T10:00:00.000Z",
+      "homecode": "KLW865",
+      "address_line_1": "Flat 2, 101 Old Street",
+      "lead_name": "Jane Doe"
+    },
+    {
+      "booked_time": "2019-06-16T14:15:00.000Z",
+      "homecode": "KZQ491",
+      "address_line_1": "Flat 1, 4 Clerkenwell Road",
+      "lead_name": "John Smith"
+    },
+    {
+      "booked_time": "2019-06-17T12:00:00.000Z",
+      "homecode": "LDN474",
+      "address_line_1": "9 Onslow Gardens",
+      "lead_name": "David H. Wagner"
+    },
+    {
+      "booked_time": "2019-06-18T10:00:00.000Z",
+      "homecode": "LDN474",
+      "address_line_1": "Flat 5, 40 Holloway Road",
+      "lead_name": "David H. Wagner"
+    }
+  ]
+}
